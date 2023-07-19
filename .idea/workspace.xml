@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba053e2c-0205-4bf3-b150-6f0be4a61e91" name="Changes" comment="" />
+    <list default="true" id="ba053e2c-0205-4bf3-b150-6f0be4a61e91" name="Changes" comment="RUB" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +41,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts">
+  <component name="RunManager" selected="Gradle.MobileBankApiTestV2.shouldReturnDemoAccounts">
     <configuration name="MobileBankApiTestV2.shouldReturnDemoAccounts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -92,8 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts" />
         <item itemvalue="Gradle.MobileBankApiTestV2.shouldReturnDemoAccounts" />
+        <item itemvalue="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +106,37 @@
       <option name="presentableId" value="Default" />
       <updated>1689761772665</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1689765953958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689765953958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="RUB">
+      <created>1689766336114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689766336114</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="RUB" />
+    <option name="LAST_COMMIT_MESSAGE" value="RUB" />
   </component>
 </project>
